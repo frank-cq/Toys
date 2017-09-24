@@ -1,3 +1,3 @@
-# shell-tutorial
+# toy-tutorial
 
-`书写shell脚本的一些例子`
+`一些小的程序片段`
